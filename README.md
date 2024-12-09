@@ -29,6 +29,15 @@ Start the server:
 Process payments:
 
 Visit http://localhost:3000.
+
+<div align="center"> 
+   
+ <img src="https://github.com/venachero/simple_payment/blob/main/img/Create-Payment-Method.png" width="800">
+
+</div>
+
+
+
 Use 4037111111000000 (card number), valid expiration date, and 123 (CVV).
 Check the Tilled Console for payments (link).
 ## Testing and payment methods:
